@@ -1,6 +1,6 @@
 <template>
 	<view class="bodyFont">
-		<!-- #ifdef APP-PLUS -->
+		<!-- #ifdef APP-PLUS 占位符 navbar -->
 		<view class="status_bar"><view class="top_view"></view></view>
 		<!-- #endif -->
 		<view class="uni-padding-wrap uni-common-mt">
